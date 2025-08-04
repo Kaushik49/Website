@@ -137,8 +137,7 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            Focused on creating intuitive and performant web experiences.
-            Bridging the gap between design and development.
+            “Hi, I’m Kaushik, a software engineer specializing in web applications, artificial intelligence, and embedded systems. My work bridges the digital and physical worlds—whether it’s building scalable web platforms, developing intelligent AI solutions, or integrating software with hardware at the embedded level. I’m passionate about designing efficient, user-centric systems that solve real-world problems and drive innovation across multiple domains.”
           </p>
         </div>
       </motion.section>
@@ -252,8 +251,8 @@ export default function Personal() {
       >
         <h3 className="mb-5 text-lg font-medium">Connect</h3>
         <p className="mb-5 text-zinc-600 dark:text-zinc-400">
-          Feel free to contact me at{' '}
-          <a className="underline dark:text-zinc-300" href={`mailto:${EMAIL}`}>
+          Feel free to contact me at{''}
+          <a className="underline dark:text-zinc-300" href={`mailto:${EMAIL}`}> 
             {EMAIL}
           </a>
         </p>

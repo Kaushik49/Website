@@ -106,11 +106,11 @@ export const BLOG_POSTS: BlogPost[] = [
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'Github',
-    link: 'https://github.com/ibelick',
+    link: 'https://github.com/Kaushik49',
   },
   {
     label: 'Twitter',
-    link: 'https://twitter.com/ibelick',
+    link: 'https://x.com/KaushikBha88545',
   },
   {
     label: 'LinkedIn',
@@ -118,8 +118,8 @@ export const SOCIAL_LINKS: SocialLink[] = [
   },
   {
     label: 'Instagram',
-    link: 'https://www.instagram.com/ibelick',
+    link: 'https://www.instagram.com/kaushikbhandari06/',
   },
 ]
 
-export const EMAIL = 'your@email.com'
+export const EMAIL = 'kaushal2061@gmail.com'
