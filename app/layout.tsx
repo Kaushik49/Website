@@ -12,7 +12,7 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  metadataBase: new URL(''),
+  metadataBase: new URL('https://nim-fawn.vercel.app/'),
   alternates: {
     canonical: '/'
   },
