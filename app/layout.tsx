@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     default: 'Kaushik - Personal website template',
     template: '%s | Kaushik'
   },
-  description:  '',
+  description:  'personal website of Kaushik',
 };
 
 const geist = Geist({
